@@ -1,0 +1,330 @@
+#EXTM3U
+#EXTINF:49 tvg-logo="https://i.imgur.com/ruRshE1.png" group-title="",RTL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
+#EXTINF:49 tvg-logo="https://i.imgur.com/IVv0qrI.png",RTL Ketto
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_rtl2_hungary_1200_atk/playlist.m3u8
+#EXTINF:49 tvg-logo="https://i.imgur.com/c4Hhhzs.png",RTL Harom
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8
+#EXTINF:50 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/960px-TV2_2008.svg.png",TV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:50 tvg-logo="https://i.imgur.com/JCu1u2v.png",Super TV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
+#EXTINF:49 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/1/18/Viasat_2_2004.png",Viasat2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/viasat2/index.m3u8
+#EXTINF:49 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Viasat_3_2025.png/500px-Viasat_3_2025.png",Viasat 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/viasat3/index.m3u8
+#EXTINF:49 tvg-logo="https://i.imgur.com/kypSbFX.png",Viasat 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/viasat6/index.m3u8
+#EXTINF:50 tvg-logo="https://i.imgur.com/B02hbcV.png",TV2 Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/tv2_comedy/index.m3u8
+#EXTINF:49 tvg-logo="https://i.imgur.com/KLpZIS6.png",TV Paprika
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/parpika_hun/index.m3u8
+#EXTINF:50 tvg-logo="https://i.imgur.com/8GFj3XP.png",TV2 Sef
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_lichi_tv_atk_tv/playlist.m3u8
+#EXTINF:50 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RTL_Otthon.svg/1920px-RTL_Otthon.svg.png",RTL Otthon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/rtl_otthon_atk/index.m3u8
+#EXTINF:49 tvg-logo="https://i.imgur.com/VvZEP4s.png",Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/prime/index.m3u8
+#EXTINF:50 tvg-logo="https://i.imgur.com/OWqzJyy.png",Film+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/film_plus_hun_atk/index.m3u8
+#EXTINF:50 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Moziklub.svg/1920px-Moziklub.svg.png",Moziklub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/moziklub_atk/index.m3u8
+#EXTINF:50 tvg-logo="https://i.imgur.com/LtCnPFJ.png",Mozi+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/mozi_plusz/index.m3u8
+#EXTINF:49 tvg-logo="https://i.imgur.com/NMifecQ.png",Moziverzum
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/moziverzum/index.m3u8
+#EXTINF:0 tvg-id="2967.id.com" tvg-name="Top Filmek HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CJcX/2967-top-movies-hd.png" group-title="Film;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2967|{catchup-id}",Top Filmek HD
+plugin://plugin.video.sweettv/playvid/2967|null
+#EXTINF:0 tvg-id="3875.id.com" tvg-name="MEGA HIT HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CKMe/3875-mega-hit-hd.png" group-title="Film;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3875|{catchup-id}",MEGA HIT HD
+plugin://plugin.video.sweettv/playvid/3875|null
+#EXTINF:0 tvg-id="3948.id.com" tvg-name="Criminal Investigation HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/COwe/3948-criminal-investigation-hd.png" group-title="Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3948|{catchup-id}",Criminal Investigation HD
+plugin://plugin.video.sweettv/playvid/3948|null
+#EXTINF:0 tvg-id="3863.id.com" tvg-name="Premium Comedy HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CJce/3863-premium-comedy-hd.png" group-title="Film;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3863|{catchup-id}",Premium Comedy HD
+plugin://plugin.video.sweettv/playvid/3863|null
+#EXTINF:50 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/amc_hun/index.m3u8
+#EXTINF:49 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/axn_hun/index.m3u8
+#EXTINF:49 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/axn_crime_wide.png",AXN Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/viasat_film/index.m3u8
+#EXTINF:49 tvg-logo="https://i.imgur.com/oPbsSlp.png",Duna
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/duna_hun/index.m3u8
+#EXTINF:50 tvg-logo="https://i.imgur.com/uOBQJZS.png",Duna World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/duna_world_hun/index.m3u8
+#EXTINF:49 tvg-logo="https://i.imgur.com/85sIvrX.png",ATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8
+#EXTINF:50 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/ATV_Extra.svg/960px-ATV_Extra.svg.png",ATV Extra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_atv_spirit/playlist.m3u8
+#EXTINF:50 tvg-logo="https://i.imgur.com/y21wFd0.png",M5
+http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:49 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png",M1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
+#EXTINF:66 tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+#EXTINF:50 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",FILMBOX+ One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
+#EXTINF:48 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",FILMBOX+ Emotion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
+#EXTINF:50 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png",FILMBOX+ Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
+#EXTINF:0 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",FILMBOX+ Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/fb_premium_hungary/index.m3u8
+#EXTINF:50 tvg-logo="https://i.imgur.com/jaKRnzU.png",Film Cafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/film_cafe/index.m3u8
+#EXTINF:49 tvg-logo="https://i.imgur.com/X5N8CHf.png",Film4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/film4_hun/index.m3u8
+#EXTINF:50 tvg-logo="https://i.imgur.com/cjypCfu.png",TV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8
+#EXTINF:50 tvg-logo="https://i.imgur.com/pJsLyiv.png",Story4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_story_4_atk_1200/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/fTG99xh.png",Galaxy4
+https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
+#EXTINF:49 tvg-logo="https://i.imgur.com/AF4Sz8Z.png",FEM3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/3znYv1N.png",Life TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/lifetv/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/cXajs8V.png",Magyar Mozi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/mozi/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/PwbLDUQ.png",RTL Gold
+https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:50 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sorozatklub.svg/1920px-Sorozatklub.svg.png",Sorozatklub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/sorozatklub_atk/index.m3u8
+#EXTINF:49 tvg-logo="https://i.imgur.com/KsxWZIw.png",Sorozat+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_sorozat_hungary_1200_atk/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/p9YFnpw.png",Izaura TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/izaura/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/wLawFVP.png",Jocky TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/jocky/index.m3u8
+#EXTINF:0 tvg-id="3868.id.com" tvg-name="Premium Action HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CJwe/3868-premium-action-hd.png" group-title="Film;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3868|{catchup-id}",Premium Action HD
+plugin://plugin.video.sweettv/playvid/3868|null
+#EXTINF:0 tvg-id="3865.id.com" tvg-name="Premium Thriller HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CJke/3865-premium-thriller-hd.png" group-title="Film;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3865|{catchup-id}",Premium Thriller HD
+plugin://plugin.video.sweettv/playvid/3865|null
+#EXTINF:0 tvg-id="3853.id.com" tvg-name="Premium Drama HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CI0e/3853-premium-drama-hd.png" group-title="Film;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3853|{catchup-id}",Premium Drama HD
+plugin://plugin.video.sweettv/playvid/3853|null
+#EXTINF:0 tvg-id="3309.id.com" tvg-name="Az ismerős gonosz HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CO0Z/3309-devil-you-know-hd.png" group-title="Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3309|{catchup-id}",Az ismerős gonosz HD
+plugin://plugin.video.sweettv/playvid/3309|null
+#EXTINF:0 tvg-id="2010.id.com" tvg-name="Akció zóna HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CNoP/2010-action-zone-hd.png" group-title="Film;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2010|{catchup-id}",Akció zóna HD
+plugin://plugin.video.sweettv/playvid/2010|null
+#EXTINF:0 tvg-id="3776.id.com" tvg-name="Romantikus Vígjáték HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CMAd/3776-romantic-comedy-hd.png" group-title="Film;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3776|{catchup-id}",Romantikus Vígjáték HD
+plugin://plugin.video.sweettv/playvid/3776|null
+#EXTINF:0 tvg-id="3870.id.com" tvg-name="Crime TV HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CJ4e/3870-crime-tv-hd.png" group-title="Film;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3870|{catchup-id}",Crime TV HD
+plugin://plugin.video.sweettv/playvid/3870|null
+#EXTINF:0 tvg-id="2014.id.com" tvg-name="Vígjáték univerzum HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CN4P/2014-comedy-universe-hd-hu.png" group-title="Film;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2014|{catchup-id}",Vígjáték univerzum HD
+plugin://plugin.video.sweettv/playvid/2014|null
+#EXTINF:0 tvg-id="3416.id.com" tvg-name="Bűnös Miami HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CNga/3416-magic-city-hd.png" group-title="Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3416|{catchup-id}",Bűnös Miami HD
+plugin://plugin.video.sweettv/playvid/3416|null
+#EXTINF:0 tvg-id="2013.id.com" tvg-name="Családi szórakozás HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CN0P/2013-family-fun-hd-hu.png" group-title="Film;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2013|{catchup-id}",Családi szórakozás HD
+plugin://plugin.video.sweettv/playvid/2013|null
+#EXTINF:0 tvg-id="3847.id.com" tvg-name="Sci-Fi & Fantasy HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CIce/3847-sci-fi-fantasy-hd.png" group-title="Film;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3847|{catchup-id}",Sci-Fi & Fantasy HD
+plugin://plugin.video.sweettv/playvid/3847|null
+#EXTINF:0 tvg-id="3848.id.com" tvg-name="Kaland Plusz HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CIge/3848-adventure-plus-hd.png" group-title="Film;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3848|{catchup-id}",Kaland Plusz HD
+plugin://plugin.video.sweettv/playvid/3848|null
+#EXTINF:0 tvg-id="2016.id.com" tvg-name="Thriller idő HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/COAP/2016-thriller-time-hd-hu.png" group-title="Film;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2016|{catchup-id}",Thriller idő HD
+plugin://plugin.video.sweettv/playvid/2016|null
+#EXTINF:0 tvg-id="3777.id.com" tvg-name="Romantikus Dráma HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CMEd/3777-romantic-drama-hd.png" group-title="Film;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3777|{catchup-id}",Romantikus Dráma HD
+plugin://plugin.video.sweettv/playvid/3777|null
+#EXTINF:0 tvg-id="2015.id.com" tvg-name="Valódi dráma HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CN8P/2015-real-drama-hd.png" group-title="Film;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2015|{catchup-id}",Valódi dráma HD
+plugin://plugin.video.sweettv/playvid/2015|null
+#EXTINF:0 tvg-id="3845.id.com" tvg-name="Horror vidék HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CIUe/3845-horror-land-hd.png" group-title="Film;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3845|{catchup-id}",Horror vidék HD
+plugin://plugin.video.sweettv/playvid/3845|null
+#EXTINF:49 tvg-logo="https://i.imgur.com/OWIK7FJ.png",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/history_hun/index.m3u8
+#EXTINF:50 tvg-logo="https://i.imgur.com/nGSsUd4.png",BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/bbce_hun/index.m3u8
+#EXTINF:50 tvg-logo="https://i.imgur.com/eSNF9qt.png",Ozone TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/ozone/index.m3u8
+#EXTINF:50 tvg-logo="https://i.imgur.com/GmFRQ82.png",Spektrum
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/spektrum_hun/index.m3u8
+#EXTINF:50 tvg-logo="https://i.imgur.com/VaVi65F.png",Spektrum Home
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/spektrum_home_hun/index.m3u8
+#EXTINF:50 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/ngc_hun/index.m3u8
+#EXTINF:50 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/ngw_hun/index.m3u8
+#EXTINF:50 tvg-logo="https://i.imgur.com/KcTTnUA.png",The Fishing & Hunting Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/fishing_hun/index.m3u8
+#EXTINF:0 tvg-id="3258.id.com" tvg-name="A világ rejtett oldala HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CLoZ/3258-the-world-inside-out-hd.png" group-title="Ingyenes TV;HD csatornák;Utazás" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3258|{catchup-id}",A világ rejtett oldala HD
+plugin://plugin.video.sweettv/playvid/3258|null
+#EXTINF:0 tvg-id="2606.id.com" tvg-name="Utazás & Kaland HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CK4U/2606-travel-adventures-hd.png" group-title="Ingyenes TV;HD csatornák;Utazás" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2606|{catchup-id}",Utazás & Kaland HD
+plugin://plugin.video.sweettv/playvid/2606|null
+#EXTINF:0 tvg-id="3645.id.com" tvg-name="Pénzjátszma HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CL0c/3645-money-games-hd.png" group-title="Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3645|{catchup-id}",Pénzjátszma HD
+plugin://plugin.video.sweettv/playvid/3645|null
+#EXTINF:0 tvg-id="2615.id.com" tvg-name="Pure Nature HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CLcU/2615-pure-nature-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák;Utazás" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2615|{catchup-id}",Pure Nature HD
+plugin://plugin.video.sweettv/playvid/2615|null
+#EXTINF:0 tvg-id="2348.id.com" tvg-name="Gyilkosságok térképe HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CKwS/2348-murder-maps-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2348|{catchup-id}",Gyilkosságok térképe HD
+plugin://plugin.video.sweettv/playvid/2348|null
+#EXTINF:0 tvg-id="2354.id.com" tvg-name="Politikatörténet HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CLIS/2354-political-history-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2354|{catchup-id}",Politikatörténet HD
+plugin://plugin.video.sweettv/playvid/2354|null
+#EXTINF:0 tvg-id="2356.id.com" tvg-name="Elnökök és vezetők HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CLQS/2356-presidents-leaders-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2356|{catchup-id}",Elnökök és vezetők HD
+plugin://plugin.video.sweettv/playvid/2356|null
+#EXTINF:0 tvg-id="2349.id.com" tvg-name="Mítoszok és szörnyek HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CK0S/2349-myths-monsters-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2349|{catchup-id}",Mítoszok és szörnyek HD
+plugin://plugin.video.sweettv/playvid/2349|null
+#EXTINF:0 tvg-id="2346.id.com" tvg-name="Történelmi személyek HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CKoS/2346-historical-figures-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2346|{catchup-id}",Történelmi személyek HD
+plugin://plugin.video.sweettv/playvid/2346|null
+#EXTINF:0 tvg-id="2345.id.com" tvg-name="Divattörténelem HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CKkS/2345-fashion-history-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2345|{catchup-id}",Divattörténelem HD
+plugin://plugin.video.sweettv/playvid/2345|null
+#EXTINF:0 tvg-id="2340.id.com" tvg-name="Filmcsillagok HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CKQS/2340-movie-stars-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2340|{catchup-id}",Filmcsillagok HD
+plugin://plugin.video.sweettv/playvid/2340|null
+#EXTINF:0 tvg-id="2355.id.com" tvg-name="Elveszett műtárgyak nyomában HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CLMS/2355-raiders-of-the-lost-art-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2355|{catchup-id}",Elveszett műtárgyak nyomában HD
+plugin://plugin.video.sweettv/playvid/2355|null
+#EXTINF:0 tvg-id="2339.id.com" tvg-name="Monarchiák és dinasztiák HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CKMS/2339-monarchies-dynasties-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2339|{catchup-id}",Monarchiák és dinasztiák HD
+plugin://plugin.video.sweettv/playvid/2339|null
+#EXTINF:0 tvg-id="3613.id.com" tvg-name="Mozilegendák HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CJ0c/3613-movie-legends-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3613|{catchup-id}",Mozilegendák HD
+plugin://plugin.video.sweettv/playvid/3613|null
+#EXTINF:0 tvg-id="2908.id.com" tvg-name="Hollywoodi történetek HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CNwW/2908-hollywood-stories-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2908|{catchup-id}",Hollywoodi történetek HD
+plugin://plugin.video.sweettv/playvid/2908|null
+#EXTINF:0 tvg-id="3557.id.com" tvg-name="Science & Innovation HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/COUb/3557-science-and-innovation-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3557|{catchup-id}",Science & Innovation HD
+plugin://plugin.video.sweettv/playvid/3557|null
+#EXTINF:0 tvg-id="2352.id.com" tvg-name="Video killed the radio star HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CLAS/2352-video-killed-the-radio-star-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2352|{catchup-id}",Video killed the radio star HD
+plugin://plugin.video.sweettv/playvid/2352|null
+#EXTINF:0 tvg-id="2344.id.com" tvg-name="Az opera legendái HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CKgS/2344-legends-of-the-opera-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2344|{catchup-id}",Az opera legendái HD
+plugin://plugin.video.sweettv/playvid/2344|null
+#EXTINF:0 tvg-id="2342.id.com" tvg-name="A világ személyiségei HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CKYS/2342-world-s-personalities-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2342|{catchup-id}",A világ személyiségei HD
+plugin://plugin.video.sweettv/playvid/2342|null
+#EXTINF:0 tvg-id="2650.id.com" tvg-name="Men With The Pot HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CNoU/2650-men-with-the-pot-hd.png" group-title="Ingyenes TV;Gasztronómia;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2650|{catchup-id}",Men With The Pot HD
+plugin://plugin.video.sweettv/playvid/2650|null
+#EXTINF:0 tvg-id="3321.id.com" tvg-name="Cooking with Byron Talbott HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CPkZ/3321-cooking-with-byron-talbott-hd.png" group-title="Ingyenes TV;Gasztronómia;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3321|{catchup-id}",Cooking with Byron Talbott HD
+plugin://plugin.video.sweettv/playvid/3321|null
+#EXTINF:0 tvg-id="3659.id.com" tvg-name="Trace Sport Stars HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CMsc/3659-trace-sport-stars-hd.png" group-title="Sport;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3659|{catchup-id}",Trace Sport Stars HD
+plugin://plugin.video.sweettv/playvid/3659|null
+#EXTINF:0 tvg-id="3100.id.com" tvg-name="Unbeaten Channel HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CJwY/3100-unbeaten-channel-hd.png" group-title="Sport;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3100|{catchup-id}",Unbeaten Channel HD
+plugin://plugin.video.sweettv/playvid/3100|null
+#EXTINF:0 tvg-id="3149.id.com" tvg-name="A sport igaz története HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CM0Y/3149-truth-about-sports-hd.png" group-title="Sport;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3149|{catchup-id}",A sport igaz története HD
+plugin://plugin.video.sweettv/playvid/3149|null
+#EXTINF:0 tvg-id="3130.id.com" tvg-name="Sporthorgászat HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CLoY/3130-sport-fishing-hd.png" group-title="Sport;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3130|{catchup-id}",Sporthorgászat HD
+plugin://plugin.video.sweettv/playvid/3130|null
+#EXTINF:0 tvg-id="2094.id.com" tvg-name="Da Vinci: Dokik bevetésen HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CK4Q/2094-da-vinci-operation-ouch-hd.png" group-title="Gyerek;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2094|{catchup-id}",Da Vinci: Dokik bevetésen HD
+plugin://plugin.video.sweettv/playvid/2094|null
+#EXTINF:0 tvg-id="2087.id.com" tvg-name="Da Vinci: Fedezd fel a világot HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CKcQ/2087-davinci-explore-the-world-hd.png" group-title="Gyerek;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2087|{catchup-id}",Da Vinci: Fedezd fel a világot HD
+plugin://plugin.video.sweettv/playvid/2087|null
+#EXTINF:0 tvg-id="2098.id.com" tvg-name="Da Vinci: Szórakoztató tanulás HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CLIQ/2098-da-vinci-fun-to-learn-hd.png" group-title="Gyerek;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2098|{catchup-id}",Da Vinci: Szórakoztató tanulás HD
+plugin://plugin.video.sweettv/playvid/2098|null
+#EXTINF:40 tvg-logo="https://oxygenmusic.hu/static/media/logo.png",Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:49 tvg-logo="https://i.imgur.com/kmQ5vYC.png",Muzsika TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_muzsika_hungary_1200_atk/playlist.m3u8
+#EXTINF:50 tvg-logo="https://i.imgur.com/aAcORTL.png",Dikh TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/dikh/index.m3u8
+#EXTINF:49 tvg-logo="https://i.imgur.com/xGUlF78.png",Zenebutik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/zenebutik/index.m3u8
+#EXTINF:49 tvg-logo="https://i.imgur.com/qDNRgSQ.png",Slager TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
+#EXTINF:0 tvg-id="3682.id.com" tvg-name="Trace Urban HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/COIc/3682-trace-urban-hd.png" group-title="Zene;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3682|{catchup-id}",Trace Urban HD
+plugin://plugin.video.sweettv/playvid/3682|null
+#EXTINF:0 tvg-id="3710.id.com" tvg-name="Trace UK HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CP4c/3710-trace-uk-hd.png" group-title="Zene;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3710|{catchup-id}",Trace UK HD
+plugin://plugin.video.sweettv/playvid/3710|null
+#EXTINF:0 tvg-id="3707.id.com" tvg-name="Trace Brasil HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CPsc/3707-trace-brasil-hd.png" group-title="Zene;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3707|{catchup-id}",Trace Brasil HD
+plugin://plugin.video.sweettv/playvid/3707|null
+#EXTINF:0 tvg-id="3678.id.com" tvg-name="Trace Latina HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CN4c/3678-trace-latina-hd.png" group-title="Zene;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3678|{catchup-id}",Trace Latina HD
+plugin://plugin.video.sweettv/playvid/3678|null
+#EXTINF:0 tvg-id="2309.id.com" tvg-name="London Élőzene HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CIUS/2309-london-live-music-hd.png" group-title="Zene;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2309|{catchup-id}",London Élőzene HD
+plugin://plugin.video.sweettv/playvid/2309|null
+#EXTINF:0 tvg-id="2313.id.com" tvg-name="Élő Popkoncertek HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CIkS/2313-livepop-concerts-hd.png" group-title="Zene;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2313|{catchup-id}",Élő Popkoncertek HD
+plugin://plugin.video.sweettv/playvid/2313|null
+#EXTINF:49 tvg-logo="https://i.imgur.com/TQ4uJZk.png",M4 Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/uatlmvixrr/index.m3u8
+#EXTINF:50 tvg-logo="https://i.imgur.com/X5X3tKC.png",Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/sport1_hun/index.m3u8
+#EXTINF:48 tvg-logo="https://i.imgur.com/UxflVoU.png",Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/sport2_hun/index.m3u8
+#EXTINF:48 tvg-logo="https://i.imgur.com/pbk8c4x.png",Spiler 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/spiler1/index.m3u8
+#EXTINF:49 tvg-logo="https://i.imgur.com/1e0VsVH.png",Spiler 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/spiler2/index.m3u8
+#EXTINF:50 tvg-logo="https://i.imgur.com/Zltlezm.png",TV2 Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/tv2_kids/index.m3u8
+#EXTINF:49 tvg-logo="https://i.imgur.com/B0nYT0l.png",M2
+http://88.212.15.19/live/m2_hun/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/WWOlm1x.png",Minimax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/minimax_hun/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1920px-K%C3%B6ly%C3%B6kklub_II.svg.png",Kolyokklub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/kolyokklub_atk/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/ODhkYyx.png",JimJam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/jim_jam_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aOa73uT.png",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/disney_channel_hun/index.m3u8
+#EXTINF:50 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",Nicktoons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/nicktoons_hungary/index.m3u8
+#EXTINF:49 tvg-logo="https://i.imgur.com/fXs8f6a.png",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
+#EXTINF:49 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/nick_junior_hun/index.m3u8
+#EXTINF:0 tvg-id="3373.id.com" tvg-name="Hupikék Törpikék HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CK0a/3373-smurfs-hd.png" group-title="Gyerek;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3373|{catchup-id}",Hupikék Törpikék HD
+plugin://plugin.video.sweettv/playvid/3373|null
+#EXTINF:0 tvg-id="3601.id.com" tvg-name="A Mancs őrjárat HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CJEc/3601-paw-patrol-hd.png" group-title="Gyerek;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3601|{catchup-id}",A Mancs őrjárat HD
+plugin://plugin.video.sweettv/playvid/3601|null
+#EXTINF:0 tvg-id="3623.id.com" tvg-name="SpongeBob SquarePants HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CKcc/3623-undersea-adventures-hd.png" group-title="Gyerek;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3623|{catchup-id}",SpongeBob SquarePants HD
+plugin://plugin.video.sweettv/playvid/3623|null
+#EXTINF:0 tvg-id="3635.id.com" tvg-name="A Lármás család HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CLMc/3635-toon-town-hd.png" group-title="Gyerek;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3635|{catchup-id}",A Lármás család HD
+plugin://plugin.video.sweettv/playvid/3635|null
+#EXTINF:0 tvg-id="3608.id.com" tvg-name="Tini Nindzsa Teknőcök HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CJgc/3608-ninja-action-channel-hd.png" group-title="Gyerek;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3608|{catchup-id}",Tini Nindzsa Teknőcök HD
+plugin://plugin.video.sweettv/playvid/3608|null
+#EXTINF:0 tvg-id="3446.id.com" tvg-name="Talking Tom Shorts HD" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_icon/CPYa/3446-talking-tom-shorts-hd.png" group-title="Gyerek;Ingyenes TV;HD csatornák" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3446|{catchup-id}",Talking Tom Shorts HD
+plugin://plugin.video.sweettv/playvid/3446|null
+#EXTINF:20 tvg-id="GLOBO TV" tvg-logo="https://i.imgur.com/PJ4c4jq.png" group-title="",GLOBO TV
+https://stream.streaming4u.hu/GloboTV/index.m3u8
